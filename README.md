@@ -1,16 +1,25 @@
-# keuanganku
+# Keuanganku 💰
 
-A new Flutter project.
+🚀 **Aplikasi Keuangan Pribadi**
 
-## Getting Started
+**Keuanganku** adalah aplikasi pencatatan keuangan yang membantu kamu mengelola pemasukan, pengeluaran, dan tabungan dengan mudah dan efisien. Dengan tampilan yang simpel dan fitur yang lengkap, Keuanganku siap membantu kamu mencapai kebebasan finansial! 💸
 
-This project is a starting point for a Flutter application.
+## 📌 Fitur Utama
 
-A few resources to get you started if this is your first Flutter project:
+✅ **Pencatatan Pemasukan** - Catat semua sumber pendapatan dengan mudah.\
+✅ **Pencatatan Pengeluaran** - Kelola pengeluaran harian agar tetap terkontrol.\
+✅ **Manajemen Tabungan** - Pantau perkembangan tabungan dan target finansial kamu.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔜 **Fitur Coming Soon**
+✨ **Anggaran Dana** - Bantu kamu mengalokasikan dana sesuai kebutuhan agar keuangan lebih terencana.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📷 Tampilan Aplikasi
+
+![Preview Desain](assets/Beranda.png)
+
+## 🎨 Desain Figma &#x20;
+
+- [Desain Figma]([https://www.figma.com/your-figma-link](https://www.figma.com/proto/W0FW474a1DD5840CVwGaZn/KeuanganKu?node-id=2-6&starting-point-node-id=2%3A6))
+
+💡 **Keuanganku - Bantu Kelola Keuanganmu dengan Lebih Baik!**
+
