@@ -17,9 +17,9 @@
 
 <img src="assets/Beranda.png" alt="Preview Desain" width="200">
 
-## 🎨 Desain Figma &#x20;
+## 🎨 Desain Figma  
 
-- [Desain Figma]([https://www.figma.com/your-figma-link](https://www.figma.com/proto/W0FW474a1DD5840CVwGaZn/KeuanganKu?node-id=2-6&starting-point-node-id=2%3A6))
+- [Desain Figma](https://www.figma.com/proto/W0FW474a1DD5840CVwGaZn/KeuanganKu?node-id=2-6&starting-point-node-id=2%3A6)
 
 💡 **Keuanganku - Bantu Kelola Keuanganmu dengan Lebih Baik!**
 
