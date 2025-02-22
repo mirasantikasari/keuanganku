@@ -13,9 +13,9 @@
 🔜 **Fitur Coming Soon**
 ✨ **Anggaran Dana** - Bantu kamu mengalokasikan dana sesuai kebutuhan agar keuangan lebih terencana.
 
-## 📷 Tampilan Aplikasi
+## 📷 Tampilan Beranda
 
-![Preview Desain](assets/Beranda.png)
+<img src="assets/Beranda.png" alt="Preview Desain" width="200">
 
 ## 🎨 Desain Figma &#x20;
 
